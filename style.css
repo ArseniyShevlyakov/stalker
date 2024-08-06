@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  }
+  
+.title {
+  text-align: center;
+  font-size: 40px;
+  margin: 0 0 100px 0;
+}
+
+.dropmenu {
+  visibility: hidden;
+  width:100px
+  height: 60px;
+  background: black;
+  float: right;
+  margin: 0 50px 0 0;
+}
+.visible {
+  visibility: visible;
+}
+.dropitem {
+  color:white;
+}
+
+#menu {
+  background-color: black;
+  border: 0px;
+  float:right;
+}
+
+a {
+  text-decoration: none;
+}
+
+#name {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+}
